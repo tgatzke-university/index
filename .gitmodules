@@ -1,0 +1,6 @@
+[submodule "templates"]
+	path = templates
+	url = https://github.com/tgatzke-university/templates.git
+[submodule "resources"]
+	path = resources
+	url = https://github.com/tgatzke-university/resources.git
