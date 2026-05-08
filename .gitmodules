@@ -4,3 +4,18 @@
 [submodule "resources"]
 	path = resources
 	url = https://github.com/tgatzke-university/resources.git
+[submodule "practice/java"]
+	path = practice/java
+	url = https://github.com/tgatzke-university/java-practice.git
+[submodule "practice/database"]
+	path = practice/database
+	url = https://github.com/tgatzke-university/database-lab.git
+[submodule "private/code"]
+	path = private/code
+	url = https://github.com/tgatzke-university/code.git
+[submodule "private/study-group"]
+	path = private/study-group
+	url = https://github.com/tgatzke-university/study-group.git
+[submodule "private/workspace"]
+	path = private/workspace
+	url = https://github.com/tgatzke-university/private.git
